@@ -1,1 +1,2 @@
-789
+config:
+  info: "master Dranch, springcloud-config/config-test.yml version=1"
